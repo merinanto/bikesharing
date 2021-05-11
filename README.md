@@ -39,11 +39,14 @@ Riders are of mainly around 30 years for male and female.Unknown has a large amo
 https://github.com/merinanto/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb
 
 ## Summary
-Tableu story available at https://public.tableau.com/profile/merin4330#!/vizhome/NewYorkBike_Challenge/NYCCitiBikeAnalysis?publish=yes
+[Tableu story](https://public.tableau.com/profile/merin4330#!/vizhome/NewYorkBike_Challenge/NYCCitiBikeAnalysis?publish=yes)
+
 1.There are two patterns of Bike utlization
   1.Weekdays more ultization at office commute hours
   2.Weekend more utlization at lunch
+ 
 2.Further analysis of data entered for unknown category should be done to check the sanity of data
+
 3.Bike utlization also will be depend on the type of crowd in the Des Moines which also has to be analysed
 
 
